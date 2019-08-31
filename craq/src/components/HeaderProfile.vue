@@ -8,7 +8,7 @@
                 <HeaderProfileCard 
                 :fullName="'Hello World!'" 
                 :fileName="'ksg.jpg'" 
-                :title="'D.va~~~~~'"
+                :title="'김상근'"
                 :subTitle="'FRONT-END'"
                 :skills="[
                 ['fab', 'cuttlefish'],
@@ -26,7 +26,7 @@
                 <HeaderProfileCard 
                 :fullName="'DJ. Koo'" 
                 :fileName="'kgh.jpg'"
-                :title="'NERF~~~~'"
+                :title="'김구현'"
                  :subTitle="'HEAD / FRONT-END'"
                  :skills="[
                 ['fab', 'aws'], 
@@ -45,7 +45,7 @@
                 <HeaderProfileCard 
                 :fullName="'Jang The Secretary'" 
                 :fileName="'jsj.jpg'"
-                :title="'This'"
+                :title="'조수장'"
                 :subTitle="'BACK-END'"
                  :skills="[
                 ['fab', 'google'],
@@ -59,7 +59,7 @@
                 <HeaderProfileCard 
                 :fullName="'KB'" 
                 :fileName="'kbh.jpg'"
-                :title="'Meka'"
+                :title="'김범현'"
                 :subTitle="'BACK-END'"
                 :skills="[
                  ['fas', 'bed']
@@ -69,7 +69,7 @@
                 <HeaderProfileCard 
                 :fullName="'JJHJJ'" 
                 :fileName="'jjh.jpg'"
-                :title="'hello'"
+                :title="'정준희'"
                 :subTitle="'FRONT-END'"
                 :skills="[
                 ['fab', 'android'],
