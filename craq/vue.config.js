@@ -1,9 +1,7 @@
 const path = require("path");
 
 module.exports = {
-  devServer: {
-      host : '15.164.153.221',
-      port : 8080, 
+  devServer: { 
       disableHostCheck : true
     },
   transpileDependencies: ['vue-clamp', 'resize-detector'],
